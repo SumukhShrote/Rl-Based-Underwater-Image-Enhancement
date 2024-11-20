@@ -10,11 +10,11 @@ To train and visualise the results of the Reinforce Policy Gradient Algorithm, u
 ```Reinforce_Policy_Gradient.ipynb``` or ```Pytorch_Reinforce_Policy_Gradient.ipynb```
 
 ### Results
-![Original Image](assets/OriginalImage.png)
+![Original Image](assets/OriginalImage.png)  
 Original Image
 
-![QLearningEnhanced](assets/Q_Learning_Enhanced.png)
+![QLearningEnhanced](assets/Q_Learning_Enhanced.png)  
 Q Learning Enhanced Image
 
-![ReinforceEnhanced](assets/ReinforceEnhanced.png)
+![ReinforceEnhanced](assets/ReinforceEnhanced.png)  
 Reinforce Enhanced Image
