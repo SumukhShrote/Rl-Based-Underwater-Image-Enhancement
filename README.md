@@ -9,12 +9,16 @@ To train and visualise the results of the Q_learning Algorithm, use the followin
 To train and visualise the results of the Reinforce Policy Gradient Algorithm, use the following notebooks:
 ```Reinforce_Policy_Gradient.ipynb``` or ```Pytorch_Reinforce_Policy_Gradient.ipynb```
 
-### Results
-![Original Image](assets/OriginalImage.png)  
-Original Image
+## Results
+ 
+### Original Image
+![Original Image](assets/OriginalImage.png)   
 
+### Q Learning Enhanced Image
 ![QLearningEnhanced](assets/Q_Learning_Enhanced.png)  
-Q Learning Enhanced Image
+Q Learning Enhanced Image  
 
-![ReinforceEnhanced](assets/ReinforceEnhanced.png)  
-Reinforce Enhanced Image
+### Reinforce Enhanced Image
+![ReinforceEnhanced](assets/ReinforceEnhanced.png)   
+
+
