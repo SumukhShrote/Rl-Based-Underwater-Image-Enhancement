@@ -13,7 +13,7 @@ To train and visualise the results of the Reinforce Policy Gradient Algorithm, u
 ![Original Image](assets/OriginalImage.png)
 Original Image
 
-![QLearningEnhanced](assets/Q_learning_Enhanced.png)
+![QLearningEnhanced](assets/Q_Learning_Enhanced.png)
 Q Learning Enhanced Image
 
 ![ReinforceEnhanced](assets/ReinforceEnhanced.png)
